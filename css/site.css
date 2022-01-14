@@ -11,6 +11,7 @@
     --at-line-height: 1.5;
 }
 
+
 /*------ELEMENT OVER RIDES------*/
 h6,.h6,h5,.h5,h4,.h4,h3,.h3,h2,.h2,h1,.h1 {
     font-family: var(--title-font);
@@ -67,6 +68,11 @@ body{
     padding-top: 6rem;
     padding-bottom: 6rem;
 
+}
+
+/*--------PROJECT CARD STYLES-----------*/
+.projectCard{
+    width: 18rem;
 }
 
 /*---------------- MEDIA QUERIES -----------*/
