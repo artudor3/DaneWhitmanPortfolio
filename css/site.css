@@ -70,9 +70,12 @@ body{
 
 }
 
-/*--------PROJECT CARD STYLES-----------*/
+/*-------- CARD STYLES-----------*/
 .projectCard{
     width: 18rem;
+}
+.codeChallengeCard{
+    width: 15rem;
 }
 
 /*---------------- MEDIA QUERIES -----------*/
